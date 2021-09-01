@@ -33,8 +33,10 @@
 
 <h1 align="center">Getting Help/Issues</h1>
 <p align="center">
-  
+  Hopefully you don't need this section, but in case something goes wrong, feel free to drop me an email at <code>flancast90@gmail.com</code>, or <a href="www.github.com/flancast90/Squeapycleanpy/issues/new">open a new issue</a> on this GitHub Repo. I will do my best to respond ASAP to these problems!
 </p>
+
+<br />
 
 <h1 align="center">License</h1>
 SqueaPyCleanSpotify is distributed under the Apache 2.0 License
