@@ -1,3 +1,3 @@
-username='ilancaste'
-client_id='4eac13e58eb34720a37ec74cc08d2832'
-client_secret='33c1009ab0f04638bce174109ca243e1'
+username=''
+client_id=''
+client_secret=''
