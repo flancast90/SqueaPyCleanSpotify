@@ -1,2 +1,1 @@
-# SqueaPyCleanSpotify
-Make your spotify "squeaky-clean" with this script to replace all explicit songs with their clean counterparts
+<img src="https://i.imgur.com/Nk3Ag1N.gif" align="center"/>
