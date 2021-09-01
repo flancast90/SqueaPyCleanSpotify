@@ -38,7 +38,7 @@
 
 <h1 align="center">License</h1>
 SqueaPyCleanSpotify is distributed under the Apache 2.0 License
-``
+<pre>
 Copyright 2021 Finn Lancaster
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -52,10 +52,10 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-``
+</pre>
 <br />
 The SpotiPy Python API for Spotify is distributed under the MIT License
-``
+<pre>
 MIT License
 
 Copyright (c) 2021 Paul Lamere
@@ -65,4 +65,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-``
+</pre>
