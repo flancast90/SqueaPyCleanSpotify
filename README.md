@@ -6,8 +6,8 @@
   <ol>
     <li>Install python and pip as detailed [here](https://packaging.python.org/tutorials/installing-packages/)</li>
     <li>Once both Python >= 3 and PIP are installed, you can install the required libraries from the <code>requirements.txt</code> file as follows.</li>
-    ```python
+    <p><code language="python">
       $ pip install -r requirements.txt
-    ```
+    </code></p>
   </ol>
 </p>
