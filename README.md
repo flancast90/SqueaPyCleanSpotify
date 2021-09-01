@@ -4,10 +4,27 @@
 <h1 align="center">Install</h1>
 <p align="center">
   <ol>
-    <li>Install python and pip as detailed [here](https://packaging.python.org/tutorials/installing-packages/)</li>
+    <li>Install python and pip as detailed <a href="https://packaging.python.org/tutorials/installing-packages/">here</a></li>
     <li>Once both Python >= 3 and PIP are installed, you can install the required libraries from the <code>requirements.txt</code> file as follows.</li>
-    <pre><code language="python">
+    <pre><code language="bash">
       $ pip install -r requirements.txt
     </code></pre>
+  </ol>
+</p>
+
+<br />
+
+<h1 align="center">Setup/Getting Started</h1>
+<p align="center">
+  <ol>
+    <li>First, <code>cd</code> into the <code>bin</code> directory of the program as follows:</li>
+    <pre><code language="bash">
+      $ cd path/to/SqueaPyCleanSpotify-main/bin
+    </code></pre>
+    <li>Next, run the <code>./main</code> file with the arguments you would like. A list of accepted arguments is compiled below.</li>
+    <pre><code language="bash">
+      $ ./main [FULL_URL_TO_YOUR_PLAYLIST/the word "credentials" (for changing login info)]
+    </pre></code>
+    <li>If you did everything right, you should be redirected to an Auth Page to verify the program's rights, and then the SqueaPyCleanSpotify CLI should tell you what it's doing!</li>
   </ol>
 </p>
